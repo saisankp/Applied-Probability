@@ -1,2 +1,2 @@
 # Applied-Probability
-The Lab Assignments I have completed during the module Applied Probability I and Applied Probability II
+My Code using R to study Applied Probability and methodologies surrounding it.
